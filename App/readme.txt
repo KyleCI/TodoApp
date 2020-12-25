@@ -1,3 +1,3 @@
-setup the virtual environment 
-navigate to App\ and enter the following
+accessing the virtual environment 
+in cmd, navigate to App\ and enter the following
 .../> todovenv\scripts\activate.bat
